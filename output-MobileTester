@@ -1,0 +1,28 @@
+Model N3110 is manufactured.
+Mobile Phone Detail:
+Model: N3110
+IMEICode: IMEI-102
+SIM Card Status: true
+Balance: 0.0 TK
+1========================
+Model N1100 is manufactured.
+Mobile Phone Detail:
+Model: N1100
+IMEICode: IMEI-124
+SIM Card Status: false
+Balance: 100.0 TK
+2========================
+Insufficient balance! Please recharge.
+3========================
+Recharge successful! Current balance 200.0 TK.
+Recharge successful! Current balance 400.0 TK.
+4========================
+Dialing the number 88017196xxxx to Bangladesh region.
+5========================
+No SIM card available! Please check the SIM card connectivity.
+6========================
+SIM card is activated successfully.
+7========================
+Dialing the number 45517196xxxx to USA region.
+8========================
+Dialing is not allowed in this region.
