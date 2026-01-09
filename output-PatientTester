@@ -1,0 +1,32 @@
+Patient ID: P01, Name: Robert
+Doctor: Dr. Thomas
+1.................
+Total patients: 1.
+2.................
+New patient admitted in Oncology.
+Patient ID: P02, Name: Christina
+Doctor: Dr. Alex
+Department: Oncology
+3.................
+Total patients: 2.
+Admitted In-Patients: 1.
+Out-Patients: 1.
+4.................
+New patient admitted in Pediatrics.
+Total patients: 4.
+5.................
+Details of 4 selected patients:
+== == == == ==
+Patient ID: P01, Name: Robert
+Doctor: Dr. Thomas
+== == == == ==
+Patient ID: P02, Name: Christina
+Doctor: Dr. Alex
+Department: Oncology
+== == == == ==
+Patient ID: P03, Name: Sofia
+Doctor: Dr. Brawn
+Department: Pediatrics
+== == == == ==
+Patient ID: P04, Name: Patrick
+Doctor: Dr. Alex
